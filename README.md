@@ -1,2 +1,2 @@
 # thetopcoder.com
-My project for personal website
+Personal website of Dr. Hidayet Ozgur Sanli
